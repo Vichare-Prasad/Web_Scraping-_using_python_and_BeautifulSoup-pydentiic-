@@ -5,11 +5,12 @@
 **2.Html Scraping using some tool like bs4**
 
 # Step 0: requirements
----
+
 pip install requests
+
 pip install bs4
+
 pip install html5lib
----
 
 # step 1: get the html
 
