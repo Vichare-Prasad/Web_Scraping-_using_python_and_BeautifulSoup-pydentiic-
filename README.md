@@ -1,4 +1,4 @@
-# If you wan to Scrape a Website:
+# If you want to Scrape a Website:
 
 **1.use API**
 
