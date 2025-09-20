@@ -11,11 +11,11 @@ pip install requests
 pip install bs4
 
 pip install html5lib
-
-#step 1: get the html
-
-#step2: Parse the html
-
+#
+step 1: get the html
+#
+step2: Parse the html
+#
 step3: html Tree traversal
 **1.Tag**
 
