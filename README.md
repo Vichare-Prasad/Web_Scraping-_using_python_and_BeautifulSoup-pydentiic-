@@ -1,6 +1,7 @@
 # If you wan to Scrape a Website:
 
 **1.use API**
+
 **2.Html Scraping using some tool like bs4**
 
 # Step 0: requirements
@@ -16,7 +17,10 @@ pip install html5lib
 
 
 # stp3: html Tree traversal
-**1.Tag*
-**2.NavigableString*
-**3.BeatifulSoup*
-**4 Comment*
+**1.Tag**
+
+**2.NavigableString**
+
+**3.BeatifulSoup**
+
+**4 Comment**
