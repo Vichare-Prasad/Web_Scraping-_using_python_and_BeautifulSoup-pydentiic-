@@ -17,6 +17,7 @@ step 1: get the html
 step2: Parse the html
 #
 step3: html Tree traversal
+
 **1.Tag**
 
 **2.NavigableString**
